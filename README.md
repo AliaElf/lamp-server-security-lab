@@ -1,6 +1,6 @@
 # My LAMP Server Security Lab
 
-In this project, I built a LAMP server in an Ubuntu virtual machine. LAMP stands for Linux, Apache, MySQL, and PHP. I then applied basic security hardening before testing the server with security scans and controlled attack simulations from a separate lab machine.
+In this project, I installed and configured a LAMP stack on an Ubuntu Server virtual machine. LAMP stands for Linux, Apache, MySQL, and PHP. I then applied basic security hardening before testing the server with security scans and controlled attack simulations from a separate lab machine.
 
 My server is named `lamp01` and runs in UTM on my Mac.
 
